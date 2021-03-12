@@ -1,0 +1,73 @@
+<DOCTYPE! html>
+  <html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <neta charset="utf-8">
+     <title>Welding</title>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic|Playfair+Display:400,700&subset=latin,cyrillic">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  
+  
+</head>
+<body>
+  <header>
+  <nav class="container">
+    <a class="logo" href="">LOGO</a>
+    
+    
+
+    <ul id="menu">
+        <li><a href="">Mobile Welding</a></li>
+        <li><a href="">About Us</a></li>
+        <li><a href="">Contacts</a></li>
+      </ul>
+      </nav>
+  </header>
+  
+  <div class="container">
+    <div class="post-list">
+      <article id="post-1" class="post">
+        <div class="post-image-small"><img src="welding.jpg" alt="welding" height="200"></div>
+        <div class="category"><a href="">Welding</a></div>
+        <h2 class="post-title">MIG/MAG</h2>
+        <p class="tekst">Welding is a fabrication process that joins materials, usually metals or thermoplastics, by using high heat to melt the parts together and allowing them to cool, causing fusion. Welding is distinct from lower temperature metal-joining techniques such as brazing and soldering, which do not melt the base metal.
+
+In addition to melting the base metal, a filler material is typically added to the joint to form a pool of molten material (the weld pool) that cools to form a joint that, based on weld configuration (butt, full penetration, fillet, etc.), can be stronger than the base material (parent metal). Pressure may also be used in conjunction with heat or by itself to produce a weld. Welding also requires a form of shield to protect the filler metals or melted metals from being contaminated or oxidized.
+
+Many different energy sources can be used for welding, including a gas flame (chemical), an electric arc (electrical), a laser, an electron beam, friction, and ultrasound. While often an industrial process, welding may be performed in many different environments, including in open air, under water, and in outer space. Welding is a hazardous undertaking and precautions are required to avoid burns, electric shock, vision damage, inhalation of poisonous gases and fumes, and exposure to intense ultraviolet radiation.</p>
+        
+        <div class="post-footer">
+          
+           <a class="more-link" href="">Find Out More</a>
+          
+          <div class="post-social">
+       <a href="" target="_blank"><i class="fa fa-facebook"></i></a>
+       <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
+       <a href="" target="_blank"><i class="fa fa-instagram"></i></a>
+          </div>
+          
+      </article>
+     </div>
+  </div>
+    
+    <footer>
+  <div class="container">
+    <div class="footer-col"><span>Weleng Ltd  © 2020</span></div>
+    <div class="footer-col">
+      <div class="social-bar-wrap">
+        <a title="Facebook" href="" target="_blank"><i class="fa fa-facebook"></i></a>
+        <a title="Twitter" href="" target="_blank"><i class="fa fa-twitter"></i></a>
+       
+        <a title="Instagram" href="" target="_blank"><i class="fa fa-instagram"></i></a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <a href="mailto:info@weleng.co.uk">E-Mail Us
+    </div>
+  </div>
+</footer>
+   
+    
+</body>
+    </html>
